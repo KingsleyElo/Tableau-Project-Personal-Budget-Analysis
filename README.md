@@ -20,8 +20,7 @@ Using **Tableau**, the dashboard breaks down spending behavior across categories
 - Monthly trend analysis
 - Key summary metrics for financial health
 
-👉 **View Dashboard:**  
-https://public.tableau.com/app/profile/eloebhose.kingsley.osazele/viz/BudgetAnalysisProject/OverviewDashboard
+👉 [**View Dashboard:**](https://public.tableau.com/app/profile/eloebhose.kingsley.osazele/viz/BudgetAnalysisProject/OverviewDashboard)
 
 ---
 
